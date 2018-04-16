@@ -1,0 +1,32 @@
+{
+  "name": "graph_ql_apollo_server",
+  "version": "1.0.0",
+  "description": "Test graphQL server on Apollo and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentin1918/graph_gl_apollo_server.git"
+  },
+  "keywords": [
+    "graphQL",
+    "Apollo",
+    "Express"
+  ],
+  "author": "grekulov.valentyn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentin1918/graph_gl_apollo_server/issues"
+  },
+  "homepage": "https://github.com/Valentin1918/graph_gl_apollo_server#readme",
+  "dependencies": {
+    "apollo-server-express": "^1.3.4",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "graphql-tools": "^2.23.1"
+  }
+}

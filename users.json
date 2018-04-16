@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 123,
+      "name": "Valik",
+      "friends": [
+        {
+          "name": "friend123_1",
+          "alcoholic": true
+        },
+        {
+          "name": "friend123_2",
+          "alcoholic": false
+        },
+        {
+          "name": "friend123_3",
+          "alcoholic": true
+        },
+        {
+          "name": "friend123_4",
+          "alcoholic": false
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Valik2",
+      "friends": [
+        {
+          "name": "friend124_1",
+          "alcoholic": true
+        },
+        {
+          "name": "friend124_2",
+          "alcoholic": false
+        },
+        {
+          "name": "friend124_3",
+          "alcoholic": true
+        },
+        {
+          "name": "friend124_4",
+          "alcoholic": false
+        }
+      ]
+    }
+  ]
+}
